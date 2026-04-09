@@ -1,0 +1,7 @@
+cd ~/Desktop/famcs/sem4/os/lab2
+mkdir -p build
+cd build
+cmake ..
+cmake --build .
+cd ~/Desktop/famcs/sem4/os/lab2/build
+./Lab2
